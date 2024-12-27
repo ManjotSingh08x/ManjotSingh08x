@@ -1,6 +1,8 @@
 ## Hi there 👋
 I am a CSE student currently in IIT Roorkee, Graduating in 2028
+
 -🔭 I'm currently working on creating projects that utilize machine learning to process images
+
 -🌱 I'm learning about ML and game development as well 
 
 ## Skills
