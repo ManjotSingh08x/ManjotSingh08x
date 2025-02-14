@@ -9,7 +9,10 @@ I am a CSE student currently in IIT Roorkee, Graduating in 2028
 - C++
 - Python
 - Godot
-- Pytorch 
+- Pytorch
+
+## Clubs
+Currently member of DSG club at IIT Roorkee
 <!--
 **ManjotSingh08x/ManjotSingh08x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
