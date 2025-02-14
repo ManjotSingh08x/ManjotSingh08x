@@ -1,3 +1,6 @@
+
+![Untitled design (1)](https://github.com/user-attachments/assets/ffe94b56-dead-4927-8f7f-35ed272d153d)
+
 ## Hi there 👋
 I am a CSE student currently in IIT Roorkee, Graduating in 2028
 
