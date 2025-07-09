@@ -1,4 +1,4 @@
-<img src="trimmed.gif" width="320" alt="Boid Simulation GIF"/>
+<img src="trimmed.gif" width="100%" alt="Boid Simulation GIF"/>
 
 
 
