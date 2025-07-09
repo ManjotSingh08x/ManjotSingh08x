@@ -1,4 +1,5 @@
-[413424584-ffe94b56-dead-4927-8f7f-35ed272d153d.webm](https://github.com/user-attachments/assets/9c71063a-be85-4d66-87d7-4275184f8fa8)
+![trimmed](https://github.com/user-attachments/assets/35eb71ed-4182-4a5f-af82-c13863729f47)
+
 
 ## Hi there 👋
 I am a CSE student currently in IIT Roorkee, Graduating in 2028
