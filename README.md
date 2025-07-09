@@ -1,4 +1,5 @@
-![trimmed](https://github.com/user-attachments/assets/35eb71ed-4182-4a5f-af82-c13863729f47)
+<img src="trimmed.gif" width="320" alt="Boid Simulation GIF"/>
+
 
 
 ## Hi there 👋
