@@ -16,7 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjotsingh08x&show_icons=true&theme=dark&locale=en" alt="manjotsingh08x" /></p>
 
 
-
+![](https://leetcard.jacoblin.cool/ManjotSingh08x)
 
 
 
